@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Mandalorian",
+        "gender": "Male",
+        "homeworld": "Mandalore",
+        "height": "6 Feet 5 Inches",
+        "image": "./images/mando(1).png"
+    },
+    {
+        "id": 2,
+        "name": "Cara Dune",
+        "gender": "Female",
+        "homeworld": "Alderaan",
+        "height": "Unknown",
+        "image": "./images/mando(1).png"
+    }
+]
