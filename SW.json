@@ -1,18 +1,70 @@
-[
-    {
-        "id": 1,
-        "name": "Mandalorian",
-        "gender": "Male",
-        "homeworld": "Mandalore",
-        "height": "6 Feet 5 Inches",
-        "image": "./images/mando(1).png"
-    },
-    {
-        "id": 2,
-        "name": "Cara Dune",
-        "gender": "Female",
-        "homeworld": "Alderaan",
-        "height": "Unknown",
-        "image": "./images/mando(1).png"
-    }
-]
+{
+    "results": [
+        {
+            "id": 1,
+            "name": "Mandalorian",
+            "gender": "Male",
+            "homeworld": "Mandalore",
+            "species": {
+                "species": "human"
+            },
+            "height": "6 Feet 5 Inches",
+            "image": "./images/mando(1).png"
+        },
+        {
+            "id": 2,
+            "name": "Cara Dune",
+            "gender": "Female",
+            "homeworld": "Alderaan",
+            "species": {
+                "species": "human"
+            },
+            "height": "Unknown",
+            "image": "./images/Cara-Dune(1).jpg"
+        },
+        {
+            "id": 3,
+            "name": "Bo-Katan Kryze",
+            "gender": "Female",
+            "homeworld": "Mandalore",
+            "species": {
+                "species": "human"
+            },
+            "height": "5 Feet 9 Inches",
+            "image": "./images/Cara-Dune(1).jpg"
+        },
+        {
+            "id": 4,
+            "name": "Moff Gideon",
+            "gender": "Male",
+            "homeworld": "Moff",
+            "species": {
+                "species": "human"
+            },
+            "height": "5 Feet 8 Inches",
+            "image": "./images/Moff-Gideon(1).jpg"
+        },
+        {
+            "id": 5,
+            "name": "Koiil",
+            "gender": "Male",
+            "homeworld": "Arvala-7",
+            "species": {
+                "species": "Ugnaught"
+            },
+            "height": "3 Feet 4 Inches",
+            "image": "./images/Kuiil(1).jpg"
+        },
+        {
+            "id": 5,
+            "name": "IG-11",
+            "gender": "Droid",
+            "homeworld": "Arvala-7",
+            "species": {
+                "species": "Droid"
+            },
+            "height": "8 Feet 6 Inches",
+            "image": "./images/IG-11(1).jpg"
+        }
+    ]
+}
